@@ -1,0 +1,4 @@
+#+title: Django Tutorial Repo
+
+This repo contains the code and notes from following the [[django
+tutorial][https://docs.djangoproject.com/en/4.0/intro/tutorial01/]]
